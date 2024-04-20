@@ -53,7 +53,7 @@ USAGE:
 
 To run this project, follow these steps:
 
-Clone the repository:
+Clone the repository: https://github.com/Meenakshi050394/project_phonepe
 Access the app in your browser at http://localhost:8501
 
 FEATURES:
