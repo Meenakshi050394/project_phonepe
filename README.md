@@ -10,7 +10,6 @@ PACKAGES
 INSTALLATION
 USAGE
 FEATURES
-LICENSE
 CONTACT
 
 PACKAGES:
@@ -38,16 +37,24 @@ PLOTLY
   Streamlit library was used to create a user-friendly UI that enables users to interact with the programme and carry out data retrieval and analysis operations.
   
   PYDECK:
-  Pydeck is a Python library tailored for interactive 3D mapping and geospatial visualization. Leveraging Deck.gl, it simplifies complex data visualization tasks with an intuitive interface. Pydeck is ideal for creating interactive maps with various layers and features, making it a powerful tool for geospatial analysis and exploration
+  Pydeck is a Python library tailored for interactive 3D mapping and geospatial visualization. Leveraging Deck.gl, it simplifies complex data visualization tasks 
+  with an intuitive interface. Pydeck is ideal for creating interactive maps with various layers and features, making it a powerful tool for geospatial analysis 
+  and exploration
   
   MySQL:
-  MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and organizing data. It is known for its reliability, scalability, and ease of use. MySQL uses a client-server model and is compatible with various programming languages, making it a popular choice for web applications.
+  MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and organizing data. It is known for its reliability, 
+  scalability, and ease of use. MySQL uses a client-server model and is compatible with various programming languages, making it a popular choice for web 
+  applications.
   
   PANDAS:
-  Matplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. It provides a wide variety of plotting options and customization features, making it a powerful tool for data visualization. Matplotlib is often used for creating charts, graphs, histograms, and other types of plots.
+  Matplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. It provides a wide variety of plotting options and 
+  customization features, making it a powerful tool for data visualization. Matplotlib is often used for creating charts, graphs, histograms, and other types of 
+  plots.
   
   PLOTLY:
-  Plotly is a versatile Python library renowned for crafting interactive, publication-quality visualizations. Offering a wide array of charts, graphs, and dashboards, Plotly enables seamless customization and integration within Python environments. Its strength lies in interactivity, empowering users to create dynamic plots with ease, suitable for both exploratory data analysis and presentation purposes.
+  Plotly is a versatile Python library renowned for crafting interactive, publication-quality visualizations. Offering a wide array of charts, graphs, and 
+  dashboards, Plotly enables seamless customization and integration within Python environments. Its strength lies in interactivity, empowering users to create 
+  dynamic plots with ease, suitable for both exploratory data analysis and presentation purposes.
 
 USAGE:
 
@@ -72,8 +79,6 @@ FEATURES:
    Here we can show Top 10 Datas from all the tables.
 
 Images uploaded in seprate file, 
-
-LICENSE:
 
 
 CONTACTS:
