@@ -56,20 +56,21 @@ Access the app in your browser at http://localhost:8501
 
 ### FEATURES:
 
- 1. Visualization of transations all over country state and disrict along with the insights of data:
+      1. Visualization of transations all over country state and disrict along with the insights of data:
 
-   The Pulse webpage will give you the overall visuvalization on the india map all the some basic insights like Total Transaction , Registered user and Apps open      based on year and quater all over the country or the select state.
+          The Pulse webpage will give you the overall visuvalization on the india map all the some basic insights like Total Transaction , Registered user and 
+          Apps open based on year and quater all over the country or the select state.
 
- 2. Analyzing and Visualizing individual insights based on cloned data:
+      2. Analyzing and Visualizing individual insights based on cloned data:
 
-   Here we can explore individual analyzing and visualizing data from Aggrecated,Map,and Top Transaction and user, used plotly chart to visualizing the data easier 
-   way.
+          Here we can explore individual analyzing and visualizing data from Aggrecated,Map,and Top Transaction and user, used plotly chart to visualizing the data 
+          easier way.
 
- 3.View Top 10 Charts:
+      3.View Top 10 Charts:
 
-   Here we can show Top 10 Datas from all the tables.
+          Here we can show Top 10 Datas from all the tables.
 
-   Images uploaded in seprate file, 
+      Images uploaded in seprate file, 
 
 
 ### CONTACTS:
