@@ -73,11 +73,13 @@ Access the app in your browser at http://localhost:8501
       Images uploaded in seprate file, 
 
 
-### CONTACTS:
+### License:
+This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
-#### Email : meenakshi.sriram18@gmail.com
-#### Linkedin : https://www.linkedin.com/in/meenakshihariharakrishnan/
+### Contact:
+📧 Email: meenakshi.sriram18@gmail.com
 
+🌐 LinkedIn: https://www.linkedin.com/in/meenakshihariharakrishnan/
 
 
 
